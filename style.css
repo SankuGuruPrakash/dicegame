@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: aliceblue;
+}
+.container{
+  display: flex;
+  gap:20px;
+  justify-content: center;
+}
+.centre{
+  position:relative;
+  left:35%
+}
+img{
+  width:200px;
+  height: 200px;
+}
